@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning low-code,idea-plugin...
+- 🌱 I’m currently learning low-code,idea-plugin,world...
 - 📫 How to reach me: wechart:CoderOrPoet;
 
 <!--
