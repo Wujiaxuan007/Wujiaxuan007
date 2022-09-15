@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning low-code,idea-plugin,world...
-- 📫 How to reach me: wechart:CoderOrPoet;
+- 📫 How to reach me: wechart: CoderOrPoet
+
+[![Wujiaxuan007's github stats](https://github-readme-stats.vercel.app/api?username=Wujiaxuan007 "![Wujiaxuan007's github stats")](https://github.com/Wujiaxuan007/github-readme-stats)
+
 
 <!--
 **Wujiaxuan007/Wujiaxuan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
