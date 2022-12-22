@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 
 [wjx:zhihu]: https://www.zhihu.com/people/mai-hua-de-ren-28/posts
-[wjx:wechatOfficial]: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5MzQyNDA4NA==&scene=124#wechat_redirect
+[wjx:wechatOfficial]: https://mp.weixin.qq.com/s/XptY0trXwbw6cNdxz4ry2g
 [wjx:wechat]: https://i.328888.xyz/2022/12/22/AdYAF.md.jpeg
