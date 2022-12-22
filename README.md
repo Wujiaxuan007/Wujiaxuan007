@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: wechart: CoderOrPoet
+[![知乎](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671506271562-235db770-187c-4265-a156-2ac46a13f547.svg)][wjx:zhihu]
+[![微信](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671678143160-bc43d4aa-b5ab-4791-9776-3e8f62b8d035.svg)][wjx:wechat]
 
 [![Wujiaxuan007's github stats](https://github-readme-stats.vercel.app/api?username=Wujiaxuan007 "![Wujiaxuan007's github stats")](https://github.com/Wujiaxuan007/github-readme-stats)
 
@@ -19,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[wjx:zhihu]: https://www.zhihu.com/people/mai-hua-de-ren-28/posts
+[wjx:wechat]: https://i.328888.xyz/2022/12/22/AdYAF.md.jpeg
