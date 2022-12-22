@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-[![知乎](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671506271562-235db770-187c-4265-a156-2ac46a13f547.svg)][wjx:zhihu]
-[![微信](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671678143160-bc43d4aa-b5ab-4791-9776-3e8f62b8d035.svg)][wjx:wechat]
+[![知乎](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671681742844-c69fb184-3fe3-474f-ac0d-dd465be3932d.svg)][wjx:zhihu]
+[![微信](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671681887456-c37934c1-1ce9-421f-ba67-8f487cd886c4.svg)][wjx:wechat]
+[![公众号](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671506746872-4181fa71-0cc1-442a-a8c8-014139df3e43.svg)][wjx:wechatOfficial]
+![profile](https://komarev.com/ghpvc/?username=Wujiaxuan007&color=ff69b4)
 
 [![Wujiaxuan007's github stats](https://github-readme-stats.vercel.app/api?username=Wujiaxuan007 "![Wujiaxuan007's github stats")](https://github.com/Wujiaxuan007/github-readme-stats)
-
 
 <!--
 **Wujiaxuan007/Wujiaxuan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 -->
 
 [wjx:zhihu]: https://www.zhihu.com/people/mai-hua-de-ren-28/posts
+[wjx:wechatOfficial]: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5MzQyNDA4NA==&scene=124#wechat_redirect
 [wjx:wechat]: https://i.328888.xyz/2022/12/22/AdYAF.md.jpeg
