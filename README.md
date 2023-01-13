@@ -4,7 +4,7 @@
 [![公众号](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671506746872-4181fa71-0cc1-442a-a8c8-014139df3e43.svg)][wjx:wechatOfficial]
 ![profile](https://komarev.com/ghpvc/?username=Wujiaxuan007&color=ff69b4)
 
-![Wujiaxuan007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wujiaxuan007&show_icons=true&theme=cobalt)
+![Wujiaxuan007's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wujiaxuan007&show_icons=true&theme=cobalt)
 
 <!--
 **Wujiaxuan007/Wujiaxuan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
