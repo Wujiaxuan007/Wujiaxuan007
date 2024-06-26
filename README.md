@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![知乎](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671681742844-c69fb184-3fe3-474f-ac0d-dd465be3932d.svg)][wjx:zhihu]
 [![微信](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671681887456-c37934c1-1ce9-421f-ba67-8f487cd886c4.svg)][wjx:wechat]
-[![公众号](https://cdn.nlark.com/yuque/0/2022/svg/1233924/1671506746872-4181fa71-0cc1-442a-a8c8-014139df3e43.svg)][wjx:wechatOfficial]
 ![profile](https://komarev.com/ghpvc/?username=Wujiaxuan007&color=ff69b4)
 
 ![Wujiaxuan007's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wujiaxuan007&show_icons=true&theme=cobalt)
