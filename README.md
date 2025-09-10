@@ -1,8 +1,5 @@
 ### Hi there 👋
 ![profile](https://komarev.com/ghpvc/?username=Wujiaxuan007&color=ff69b4)
-
-![Wujiaxuan007's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wujiaxuan007&show_icons=true&theme=cobalt)
-
 <!--
 **Wujiaxuan007/Wujiaxuan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
